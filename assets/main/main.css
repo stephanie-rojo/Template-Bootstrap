@@ -49,6 +49,10 @@
 .labe{
   display: inline-block;
 }
+span.label{
+  display: inline-block;
+  margin-bottom: 10px;
+}
 .h1{
   font-size: 30px;
 }
