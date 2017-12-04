@@ -1,0 +1,62 @@
+
+/*dando estilo a second-section*/
+.jumbotron{
+  margin-top: 80px;
+}
+/*dando estilo third-section*/
+.texto-botones{
+  border-bottom: 1px solid #DCDCDC;
+  margin-bottom: 30px;
+}
+.btn{
+  font-size: 20px;
+  margin-top:20px;
+  margin-left: 2px;
+}
+.btn-2{
+  font-size: 14px;
+  margin-top:20px;
+  margin-left: 2px;
+}
+.btn-3{
+  font-size: 10px;
+  margin-top:20px;
+  margin-left: 2px;
+}
+.btn-4{
+  font-size: 7px;
+  margin-top:20px;
+  margin-left: 2px;
+}
+
+/*dando estilo quarter-section */
+.tablas{
+  border-bottom: 1px solid #DCDCDC;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.texto-tabla{
+  color:inherit;
+  font-weight: normal;
+}
+/* dando estilo a fifth-section*/
+.img-thumbnail{
+  height: 200px;
+  width: 200px;
+  border: 1px solid #ddd;
+}
+/*dando estilo a sixth-section*/
+.labe{
+  display: inline-block;
+}
+.h1{
+  font-size: 30px;
+}
+.h2{
+  font-size: 27px;
+}
+/*dando estilo seventh-section*/
+.nav-pills{
+  border-bottom: none;
+  padding-top: 10px;
+}
